@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-member/mall-member.iml" filepath="$PROJECT_DIR$/mall-member/mall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-parent-project.iml" filepath="$PROJECT_DIR$/tuling-parent-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-parent-son/tuling-parent-son.iml" filepath="$PROJECT_DIR$/tuling-parent-son/tuling-parent-son.iml" />
+    </modules>
+  </component>
+</project>

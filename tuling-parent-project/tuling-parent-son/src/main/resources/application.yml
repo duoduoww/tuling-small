@@ -1,0 +1,18 @@
+servlet:
+  context-path: /bootMultiProfiles
+spring:
+  profiles:
+    active: prod
+
+### -Dspring.profiles.active=dev
+---
+spring:
+  profiles: dev
+server:
+  port: 8081
+
+---
+spring:
+  profiles: prod
+server:
+  port: 8082
